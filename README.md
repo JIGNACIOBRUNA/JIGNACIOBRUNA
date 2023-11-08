@@ -23,7 +23,7 @@ Estos son algunos de los proyectos en los que he trabajado:
 - Rick and Morty https://github.com/JIGNACIOBRUNA/rick-and-morty Actualmente en mantencion
 - PI DOGS https://github.com/JIGNACIOBRUNA/PI-DOGS SPA que renderiza cartas de perros segun su raza, donde se aplican filtros combinados y la creacion de nuevas razas
 - PI FOOD https://github.com/JIGNACIOBRUNA/PI-FOOD SPA donde se renderizan cartas con diferentes recetas y las respectivas dietas a las que corresponden, ademas se pueden generar nuevas recetas.
-- PF Bon Appetit https://github.com/cesarbeloqui/BonAppetit E-Commerce de comida que esta pensada para volver mas amigable la atencion hacia los clientes y tener una mejor administacion (Trabajo colaborativo)
+- PF Bon Appetit https://github.com/JIGNACIOBRUNA/BonAppetit E-Commerce de comida que esta pensada para volver mas amigable la atencion hacia los clientes y tener una mejor administacion (Trabajo colaborativo)
 
 No dudes en contactarme si tienes oportunidades de colaboración o desafíos interesantes en el mundo de la tecnología. ¡Estoy siempre dispuesto a aprender y crecer!
 
